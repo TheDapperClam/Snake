@@ -1,0 +1,12 @@
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\bin\Release\Snake.exe.config
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\bin\Release\Snake.exe
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\bin\Release\Snake.pdb
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.csproj.AssemblyReference.cache
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.csproj.SuggestedBindingRedirects.cache
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.SnakeForm.resources
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.StartupForm.resources
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.cache
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.csproj.CoreCompileInputs.cache
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.exe
+D:\TheDapperClam\Documents\Dev\Projects\C#\Snake\Snake\obj\Release\Snake.pdb
